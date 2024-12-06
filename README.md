@@ -10,7 +10,7 @@ This write-up describes the process of exploiting an HTML Injection vulnerabilit
 
 - Launched the machine and noted the IP address assigned
 
-- Navigated to the target application at http://<machine-ip>:8080/.
+- Navigated to the target application at http://machine-ip:8080/.
 
 ### Exploring the Application
 
